@@ -17,25 +17,32 @@ This repository contains small programs, coding exercises, programming concepts,
 ## 📂 Repository Structure
 
 ```text
-DailyCode/
+dailycode/
+│
+├── README.md
 │
 ├── Python/
-│   ├── Basics/
-│   ├── Data_Structures/
-│   └── Problem_Solving/
+│   ├── PYTHON_30_DAY_ROADMAP.md
+│   ├── Day-01/
+│   │   ├── notes.md
+│   │   └── practice.py
+│   ├── Day-02/
+│   │   ├── notes.md
+│   │   └── practice.py
+│   ├── Day-03/
+│   │   ├── notes.md
+│   │   └── practice.py
+│   └── ...
 │
-├── SQL/
-│   ├── Queries/
-│   └── Concepts/
-│
-├── DSA/
-│   ├── Arrays/
-│   ├── Strings/
-│   └── Algorithms/
-│
-├── Concepts/
-│
-└── README.md
+└── DSA/
+    ├── DSA_ROADMAP.md
+    ├── Day-01/
+    │   ├── notes.md
+    │   └── practice.py
+    ├── Day-02/
+    │   ├── notes.md
+    │   └── practice.py
+    └── ...
 ```
 
 *The structure will evolve as I explore more languages, concepts, and technologies.*
