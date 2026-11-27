@@ -1,4 +1,4 @@
-# Day 01 – Python Introduction and Basics
+# Python Introduction and Basics
 
 ## 1. Learning Objectives
 
